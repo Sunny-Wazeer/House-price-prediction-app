@@ -129,5 +129,5 @@ print(f"Predicted Median House Value: ${predicted_price[0] * 100000:.2f}")
 
 ## ✍️ Author
 
-Developed by **[Your Name]** — for learning and internship purposes.
+Developed by **[Sunny Wazeer]** — for learning and internship purposes.
 
